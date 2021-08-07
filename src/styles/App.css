@@ -1,0 +1,11 @@
+.card{
+    height: 500px;
+}
+.card_image{
+    height: 300px;
+    object-fit: cover;
+}
+.detail_image {
+    height: 500px;
+    object-fit: contain;
+}
